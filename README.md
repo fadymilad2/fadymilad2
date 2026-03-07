@@ -13,12 +13,6 @@ Welcome to my GitHub! I am a passionate Software Developer with a Bachelor's deg
 ### 🚀 Featured Work
 **[HabitIQ](https://github.com/fadymilad/habit_iq)** An AI-powered, offline-first habit tracker. Engineered with a custom background sync strategy to minimize Firestore reads/writes, featuring local notifications and a premium glassmorphism dark theme. 
 
-### 🎮 Beyond the Code
-When I'm not writing Dart code or structuring app architectures, you can usually find me:
-* Geeking out over mechanical keyboards ⌨️
-* Scoring goals in Rocket League 🚗⚽
-* Exploring photo editing and UI/UX design 🎨
-
 ### 📫 Let's Connect!
 I am always open to discussing new full-time opportunities, freelance projects, or just chatting about tech.
 
