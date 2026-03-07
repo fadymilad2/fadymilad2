@@ -1,15 +1,29 @@
+# Hi there, I'm Fady Milad 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fadymilad2)
+## 📱 Flutter Developer | Turning Ideas into Premium Apps
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fadymilad2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fadymilad2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fadymilad2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Welcome to my GitHub! I am a passionate Software Developer with a Bachelor's degree in Computer Science from Damietta University. I specialize in building highly optimized, user-centric mobile applications, focusing on clean architecture, smooth UI/UX, and performance.
+
+### 🛠️ My Tech Stack
+* **Mobile Development:** Flutter, Dart
+* **Backend & BaaS:** Firebase (Auth, Cloud Firestore)
+* **Architecture & State Management:** Clean Architecture, Bloc/Cubit
+* **Local Storage & Tools:** Hive, Local Notifications, Git/GitHub
+
+### 🚀 Featured Work
+**[HabitIQ](https://github.com/fadymilad/habit_iq)** An AI-powered, offline-first habit tracker. Engineered with a custom background sync strategy to minimize Firestore reads/writes, featuring local notifications and a premium glassmorphism dark theme. 
+
+### 🎮 Beyond the Code
+When I'm not writing Dart code or structuring app architectures, you can usually find me:
+* Geeking out over mechanical keyboards ⌨️
+* Scoring goals in Rocket League 🚗⚽
+* Exploring photo editing and UI/UX design 🎨
+
+### 📫 Let's Connect!
+I am always open to discussing new full-time opportunities, freelance projects, or just chatting about tech.
+
+* 💼 **LinkedIn:** [linkedin.com/in/fadymilad2](https://www.linkedin.com/in/fadymilad2)
+* 🌐 **Portfolio:** [Check out my work here](https://v0-portfolio-website-olive-eight.vercel.app/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fadymilad2&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*"Good code is its own best documentation."*
