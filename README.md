@@ -1,23 +1,62 @@
-# Hi there, I'm Fady Milad 👋
+# Hi, I'm Fady Milad 👋
 
-## 📱 Flutter Developer | Turning Ideas into Premium Apps
+### Flutter Developer · Mobile Apps & Web Admin Dashboards
 
-Welcome to my GitHub! I am a passionate Software Developer with a Bachelor's degree in Computer Science from Damietta University. I specialize in building highly optimized, user-centric mobile applications, focusing on clean architecture, smooth UI/UX, and performance.
+I build Flutter applications for direct clients, with experience in healthcare membership and e-learning platforms. My work includes mobile interfaces, Firebase backends, REST API integration, payment workflows, and offline storage.
 
-### 🛠️ My Tech Stack
-* **Mobile Development:** Flutter, Dart
-* **Backend & BaaS:** Firebase (Auth, Cloud Firestore)
-* **Architecture & State Management:** Clean Architecture, Bloc/Cubit
-* **Local Storage & Tools:** Hive, Local Notifications, Git/GitHub
+B.Sc. in Computer Science — Damietta University.
 
-### 🚀 Featured Work
-**[HabitIQ](https://github.com/fadymilad/habit_iq)** An AI-powered, offline-first habit tracker. Engineered with a custom background sync strategy to minimize Firestore reads/writes, featuring local notifications and a premium glassmorphism dark theme. 
+[Portfolio](https://v0-portfolio-website-olive-eight.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fadymilad2) · [Email](mailto:fmilad551@gmail.com)
 
-### 📫 Let's Connect!
-I am always open to discussing new full-time opportunities, freelance projects, or just chatting about tech.
+## Selected client work
 
-* 💼 **LinkedIn:** [linkedin.com/in/fadymilad2](https://www.linkedin.com/in/fadymilad2)
-* 🌐 **Portfolio:** [Check out my work here](https://v0-portfolio-website-olive-eight.vercel.app/)
+### CarePass — Healthcare Membership Platform
 
----
-*"Good code is its own best documentation."*
+A Flutter mobile app and web admin dashboard for discovering healthcare providers and managing memberships.
+
+- Provider and service discovery with location and category filters.
+- Membership plans, family members, payment history, and discount codes.
+- expressPay hosted checkout with server-side verification through Firebase Cloud Functions.
+- Authentication, notifications, and role-based administration.
+
+**Built with:** Flutter, Dart, Firebase, BLoC, Clean Architecture.
+
+[Mobile app & screenshots](https://github.com/fadymilad2/carepass) · [Admin dashboard](https://github.com/fadymilad2/carepass_dashboard)
+
+### Civil Ed — E-learning Platform
+
+A Flutter learning app and web admin dashboard built for a direct client.
+
+- Video lessons, offline downloads, course activation codes, and progress tracking.
+- Authentication, push notifications, and administration for students, courses, and lessons.
+- Android and iOS application delivery.
+
+**Built with:** Flutter, Dart, Firebase, BLoC, REST APIs, Hive.
+
+[Mobile app & screenshots](https://github.com/fadymilad2/civil-engineering-courses) · [Admin dashboard](https://github.com/fadymilad2/civil-engineering-dashboard) · [Google Play](https://play.google.com/store/apps/details?id=com.fady.civilcourses) · [App Store](https://apps.apple.com/us/app/civil-engineering-courses/id6762060582)
+
+## Personal project
+
+### HabitIQ — Habit Tracker
+
+An **unpublished personal learning project** exploring offline habit tracking, AI-assisted insights, local reminders, and cloud synchronization.
+
+**Built with:** Flutter, Firebase Authentication, Cloud Firestore, Hive, Cubit.
+
+[Explore the repository](https://github.com/fadymilad2/habitiq)
+
+## Technical skills
+
+| Area | Technologies |
+| --- | --- |
+| Mobile & web | Flutter, Dart, Flutter Web, responsive interfaces |
+| Architecture & state | BLoC / Cubit, Clean Architecture, Repository Pattern, OOP, SOLID |
+| Backend & APIs | Firebase Authentication, Cloud Firestore, Cloud Functions, FCM, REST APIs, Dio |
+| Local storage | Hive, Shared Preferences |
+| Tools | Git, GitHub, Postman, Android Studio, VS Code |
+
+## Get in touch
+
+Open to **junior Flutter developer roles** and **freelance mobile app projects**.
+
+For opportunities or project enquiries, reach me at **[fmilad551@gmail.com](mailto:fmilad551@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/fadymilad2)**.
